@@ -13,6 +13,8 @@ Introducing Chroma Flow Studio.
 
 The swiss-army knife to ChromaDB - with every management task at your fingertips! <br>
 Promising to be **the most comprehensive ChromaDB GUI client available!**<br>
+<br>
+Small changes to allow to work with ChromaDB > v7<br>
 
 ~~~~~~~~~~~~~
 Intended for Windows OS
